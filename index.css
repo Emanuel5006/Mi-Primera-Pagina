@@ -1,0 +1,33 @@
+h1{
+    color: black;
+    background-color: rgb(236, 8, 8);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:40px;
+    margin:100px;
+}
+p{
+    color: black;
+    background-color:rgb(248, 247, 246);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:40px;
+    margin:50px;
+}
+
+#mi-id{
+    background-color: blue;
+    color: azure;
+    font-size: 18px;
+}
+.mi-clase{
+    border: 1px solid black;
+    padding: 5%;
+    margin: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.container .title {
+    color: rgb(8, 8, 8);
+}
+p {
+    color: black;
+  }
